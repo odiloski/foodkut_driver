@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183976515902",
+    "project_id": "foodkut",
+    "storage_bucket": "foodkut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183976515902:android:2a3133453437df2637b46f",
+        "android_client_info": {
+          "package_name": "browzappeal.foodkut.deliveryman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATXurdJiQUjZL92fuz13uBcp9HNxCcDf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
